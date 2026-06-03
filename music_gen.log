@@ -1,0 +1,424 @@
+2026-06-03 11:49:06,136 - INFO - Loading GPT-2 model 'gpt2'...
+2026-06-03 11:49:07,861 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:08,125 - INFO - HTTP Request: GET https://huggingface.co/gpt2/resolve/main/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:08,125 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 11:49:08,433 - INFO - HTTP Request: GET https://huggingface.co/api/models/gpt2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 11:49:08,708 - INFO - HTTP Request: GET https://huggingface.co/api/models/openai-community/gpt2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 11:49:08,927 - INFO - HTTP Request: GET https://huggingface.co/api/models/gpt2/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 11:49:09,227 - INFO - HTTP Request: GET https://huggingface.co/api/models/openai-community/gpt2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 11:49:09,409 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/vocab.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:09,637 - INFO - HTTP Request: GET https://huggingface.co/gpt2/resolve/main/vocab.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:12,324 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/merges.txt "HTTP/1.1 200 OK"
+2026-06-03 11:49:12,609 - INFO - HTTP Request: GET https://huggingface.co/gpt2/resolve/main/merges.txt "HTTP/1.1 200 OK"
+2026-06-03 11:49:15,661 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+2026-06-03 11:49:15,882 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+2026-06-03 11:49:16,087 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:16,329 - INFO - HTTP Request: GET https://huggingface.co/gpt2/resolve/main/tokenizer.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:20,268 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 11:49:20,902 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:21,092 - INFO - HTTP Request: GET https://huggingface.co/gpt2/resolve/main/config.json "HTTP/1.1 200 OK"
+2026-06-03 11:49:21,285 - INFO - HTTP Request: HEAD https://huggingface.co/gpt2/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 11:49:21,515 - INFO - HTTP Request: GET https://huggingface.co/api/models/openai-community/gpt2/xet-read-token/607a30d783dfa663caf39e06633721c8d4cfcd7e "HTTP/1.1 200 OK"
+2026-06-03 11:52:24,726 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 11:52:24,726 - INFO - Master-Ear initialisiert
+2026-06-03 11:52:24,726 - INFO - MusicGen initialisiert
+2026-06-03 11:52:24,730 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 11:52:24,731 - INFO - === Session mxk_20260603_115224 START ===
+2026-06-03 11:52:24,731 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 11:53:34,996 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 11:53:34,997 - INFO - Master-Ear initialisiert
+2026-06-03 11:53:34,997 - INFO - MusicGen initialisiert
+2026-06-03 11:53:34,998 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 11:53:34,998 - INFO - === Session mxk_20260603_115334 START ===
+2026-06-03 11:53:34,999 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 11:54:12,157 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 11:54:12,157 - INFO - Master-Ear initialisiert
+2026-06-03 11:54:12,158 - INFO - MusicGen initialisiert
+2026-06-03 11:54:12,158 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 11:54:12,158 - INFO - === Session mxk_20260603_115412 START ===
+2026-06-03 11:54:12,159 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 11:56:13,051 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 11:56:13,053 - INFO - Master-Ear initialisiert
+2026-06-03 11:56:13,053 - INFO - MusicGen initialisiert
+2026-06-03 11:56:13,054 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 11:56:13,054 - INFO - === Session mxk_20260603_115613 START ===
+2026-06-03 11:56:13,055 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:00:33,584 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:00:33,585 - INFO - Master-Ear initialisiert
+2026-06-03 12:00:33,585 - INFO - MusicGen initialisiert
+2026-06-03 12:00:33,585 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 12:00:33,586 - INFO - === Session mxk_20260603_120033 START ===
+2026-06-03 12:00:33,586 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:02:31,203 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:02:31,204 - INFO - Master-Ear initialisiert
+2026-06-03 12:02:31,204 - INFO - MusicGen initialisiert
+2026-06-03 12:02:31,205 - WARNING - MIDI-Renderer nicht verfügbar: Kein SoundFont gefunden. Installiere: sudo apt-get install fluid-soundfont-gm
+Oder setze SOUNDFONT_PATHS in maxxki_orchestrator.py
+2026-06-03 12:02:31,205 - INFO - === Session mxk_20260603_120231 START ===
+2026-06-03 12:02:31,205 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:04:20,272 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:04:20,273 - INFO - Master-Ear initialisiert
+2026-06-03 12:04:20,273 - INFO - MusicGen initialisiert
+2026-06-03 12:04:20,276 - WARNING - Kein SoundFont gefunden — MIDI-Rendering deaktiviert
+2026-06-03 12:04:20,276 - INFO - MIDI-Renderer initialisiert
+2026-06-03 12:04:20,277 - INFO - === Session mxk_20260603_120420 START ===
+2026-06-03 12:04:20,277 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:08:57,867 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:08:57,867 - INFO - Master-Ear initialisiert
+2026-06-03 12:08:57,868 - INFO - MusicGen initialisiert
+2026-06-03 12:08:57,868 - INFO - MIDI-Renderer initialisiert
+2026-06-03 12:08:57,869 - INFO - === Session mxk_20260603_120857 START ===
+2026-06-03 12:08:57,869 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:12:13,710 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:12:13,710 - INFO - Master-Ear initialisiert
+2026-06-03 12:12:13,710 - INFO - MusicGen initialisiert
+2026-06-03 12:12:13,711 - INFO - MIDI-Renderer initialisiert
+2026-06-03 12:12:13,711 - INFO - === Session mxk_20260603_121213 START ===
+2026-06-03 12:12:13,711 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:12:13,731 - INFO - Lade Modell 'ai-guru/lakhclean_mmmtrack_4bars_d-2048'...
+2026-06-03 12:12:16,000 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:16,262 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:16,956 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:16,959 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 12:12:17,640 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:18,306 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:18,692 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:19,070 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:19,522 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:12:20,091 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:20,365 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:20,849 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:21,117 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048 "HTTP/1.1 200 OK"
+2026-06-03 12:12:21,463 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/main "HTTP/1.1 200 OK"
+2026-06-03 12:12:21,913 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/discussions?p=0 "HTTP/1.1 200 OK"
+2026-06-03 12:12:22,432 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/generation_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:22,719 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/refs%2Fpr%2F1 "HTTP/1.1 200 OK"
+2026-06-03 12:12:23,075 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:23,357 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:23,443 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:23,454 - INFO - Modell geladen.
+2026-06-03 12:12:23,459 - INFO - Generiere MIDI-Tokens (max 512 tokens)...
+2026-06-03 12:12:23,970 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 12:12:24,435 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/xet-read-token/9428afc303d767c4e16a7c9bdb809d3b61051e70 "HTTP/1.1 200 OK"
+2026-06-03 12:12:31,891 - INFO - Generiert: 517 Tokens
+2026-06-03 12:12:31,898 - INFO - MIDI gespeichert: /tmp/maxxki_sessions/mxk_20260603_121213_melody.mid (9 Track(s))
+2026-06-03 12:12:31,977 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 12:12:31,977 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 12:12:33,666 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:35,817 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:36,792 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:38,876 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:39,488 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:40,287 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:41,329 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:42,262 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:42,911 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:43,434 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:44,475 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:45,713 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:49,726 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:50,839 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:52,051 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:12:53,393 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:54,577 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:55,097 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:55,609 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:56,692 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:12:57,797 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:12:58,970 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:13:00,205 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:13:01,744 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:13:05,829 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:13:06,286 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 12:13:20,106 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:13:20,634 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:13:20,679 - INFO - Model ready (torch.float32).
+2026-06-03 12:13:20,680 - INFO - Generating 30s — guidance=3.0 — prompt: 'dark sparse dancehall riddim, hard hitting sub 808, sparse kick snare, sparse percussion, kingston night, 100 bpm, kalado style., 142 BPM, dark atmosphere, minimalist, sparse texture'
+2026-06-03 12:17:49,517 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 12:17:49,518 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 12:17:53,012 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:53,016 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 12:17:53,525 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:17:53,977 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:17:54,371 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:54,781 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:17:54,921 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:17:55,176 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:55,410 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:55,743 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:56,765 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:57,674 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:58,147 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:17:58,660 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:17:58,964 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:17:59,602 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:00,360 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:00,823 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:01,532 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:02,062 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:02,740 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:03,435 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:04,140 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:05,266 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:18:05,791 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:06,026 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:06,516 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 12:18:09,221 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:09,365 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:09,410 - INFO - Model ready (torch.float32).
+2026-06-03 12:18:28,062 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 12:18:28,062 - INFO - Master-Ear initialisiert
+2026-06-03 12:18:28,063 - INFO - MusicGen initialisiert
+2026-06-03 12:18:28,065 - INFO - MIDI-Renderer initialisiert
+2026-06-03 12:18:28,065 - INFO - === Session mxk_20260603_121828 START ===
+2026-06-03 12:18:28,066 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 12:18:28,071 - INFO - Lade Modell 'ai-guru/lakhclean_mmmtrack_4bars_d-2048'...
+2026-06-03 12:18:28,642 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:28,875 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:29,251 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:29,252 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 12:18:29,467 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:29,725 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:29,837 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:30,113 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:30,415 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:18:31,084 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:32,084 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:33,182 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:34,017 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048 "HTTP/1.1 200 OK"
+2026-06-03 12:18:34,529 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/main "HTTP/1.1 200 OK"
+2026-06-03 12:18:34,744 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/generation_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:34,774 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/discussions?p=0 "HTTP/1.1 200 OK"
+2026-06-03 12:18:34,964 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:18:35,057 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/refs%2Fpr%2F1 "HTTP/1.1 200 OK"
+2026-06-03 12:18:35,153 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:18:35,167 - INFO - Modell geladen.
+2026-06-03 12:18:35,173 - INFO - Generiere MIDI-Tokens (max 512 tokens)...
+2026-06-03 12:18:35,460 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:35,871 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 12:18:36,308 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/xet-read-token/9428afc303d767c4e16a7c9bdb809d3b61051e70 "HTTP/1.1 200 OK"
+2026-06-03 12:18:43,051 - INFO - Generiert: 517 Tokens
+2026-06-03 12:18:43,058 - INFO - MIDI gespeichert: /tmp/maxxki_sessions/mxk_20260603_121828_melody.mid (6 Track(s))
+2026-06-03 12:18:43,137 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 12:18:43,137 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 12:18:55,028 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:18:56,269 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:19:22,026 - WARNING - '[Errno 104] Connection reset by peer' thrown while requesting HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json
+2026-06-03 12:19:22,027 - WARNING - Retrying in 1s [Retry 1/5].
+2026-06-03 12:19:23,032 - ERROR - MusicGen Texture fehlgeschlagen: Model load failed: Can't load image processor for 'facebook/musicgen-small'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'facebook/musicgen-small' is the correct path to a directory containing a preprocessor_config.json file
+2026-06-03 12:20:50,709 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 12:20:50,709 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 12:20:57,631 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:20:57,634 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 12:20:58,433 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:20:59,315 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:00,315 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:01,351 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:02,006 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:02,593 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:03,108 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:03,659 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:04,172 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:04,696 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:05,195 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:05,949 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:06,970 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:08,182 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:11,906 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:24,392 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:24,881 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:25,523 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:26,188 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:27,485 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:21:28,710 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:21:32,960 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:34,165 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:37,522 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 12:21:40,839 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:21:41,668 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:21:41,688 - INFO - Model ready (torch.float32).
+2026-06-03 12:21:41,724 - INFO - Generating 10s — guidance=3.0 — prompt: 'dark dancehall riddim, heavy 808'
+2026-06-03 12:24:28,487 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 12:24:28,489 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 12:24:33,294 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:33,303 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 12:24:33,947 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:34,567 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:35,306 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:38,899 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:41,635 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:45,516 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:46,285 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:49,919 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:51,081 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:52,474 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:53,523 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:54,689 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:55,135 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:55,354 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:55,552 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:55,754 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:56,022 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:56,183 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:56,634 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:24:56,895 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:24:57,440 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 12:24:58,345 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 12:25:02,471 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:25:04,964 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 12:25:23,181 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 12:25:24,270 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 12:25:24,316 - INFO - Model ready (torch.float32).
+2026-06-03 12:25:24,400 - INFO - Generating 10s — guidance=3.0 — prompt: 'dark dancehall riddim, heavy 808'
+2026-06-03 12:29:50,867 - INFO - Saved: /var/home/mk/projects/mk/music-output/dark_dancehall_riddim__heavy_808_10s.wav
+2026-06-03 12:29:50,878 - INFO - Generating 10s — guidance=3.0 — prompt: 'bashment energy, minimal drums'
+2026-06-03 12:36:13,741 - INFO - Saved: /var/home/mk/projects/mk/music-output/dark_dancehall_riddim__heavy_808_10s.wav
+2026-06-03 12:36:13,793 - INFO - Generating 10s — guidance=3.0 — prompt: 'bashment energy, minimal drums'
+2026-06-03 12:40:54,478 - INFO - Saved: /var/home/mk/projects/mk/music-output/bashment_energy__minimal_drums_10s.wav
+2026-06-03 12:40:54,489 - INFO - Generating 10s — guidance=3.0 — prompt: 'midnight Kingston, deep sub'
+2026-06-03 12:46:10,630 - INFO - Saved: /var/home/mk/projects/mk/music-output/bashment_energy__minimal_drums_10s.wav
+2026-06-03 12:46:10,633 - INFO - Generating 10s — guidance=3.0 — prompt: 'midnight Kingston, deep sub'
+2026-06-03 12:49:49,740 - INFO - Saved: /var/home/mk/projects/mk/music-output/midnight_Kingston__deep_sub_10s.wav
+2026-06-03 12:52:25,331 - INFO - Saved: /var/home/mk/projects/mk/music-output/midnight_Kingston__deep_sub_10s.wav
+2026-06-03 13:18:27,704 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 13:18:27,704 - INFO - Master-Ear initialisiert
+2026-06-03 13:18:27,704 - INFO - MusicGen initialisiert
+2026-06-03 13:18:27,706 - INFO - MIDI-Renderer initialisiert
+2026-06-03 13:18:27,711 - INFO - === Session mxk_20260603_131827 START ===
+2026-06-03 13:18:27,711 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 13:18:27,719 - INFO - Lade Modell 'ai-guru/lakhclean_mmmtrack_4bars_d-2048'...
+2026-06-03 13:18:28,735 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:28,813 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:29,018 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:29,020 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 13:18:29,135 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:29,444 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:29,578 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:29,813 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:30,289 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 13:18:30,595 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:30,732 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:31,013 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:31,279 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048 "HTTP/1.1 200 OK"
+2026-06-03 13:18:31,661 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/main "HTTP/1.1 200 OK"
+2026-06-03 13:18:31,835 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/generation_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:31,866 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/discussions?p=0 "HTTP/1.1 200 OK"
+2026-06-03 13:18:32,020 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:32,136 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:32,146 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/refs%2Fpr%2F1 "HTTP/1.1 200 OK"
+2026-06-03 13:18:32,153 - INFO - Modell geladen.
+2026-06-03 13:18:32,165 - INFO - Generiere MIDI-Tokens (max 512 tokens)...
+2026-06-03 13:18:32,435 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:32,786 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 13:18:33,044 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/xet-read-token/9428afc303d767c4e16a7c9bdb809d3b61051e70 "HTTP/1.1 200 OK"
+2026-06-03 13:18:39,872 - INFO - Generiert: 517 Tokens
+2026-06-03 13:18:39,879 - INFO - MIDI gespeichert: /tmp/maxxki_sessions/mxk_20260603_131827_melody.mid (7 Track(s))
+2026-06-03 13:18:39,953 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 13:18:39,953 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 13:18:44,259 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:45,016 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:45,739 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:46,306 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:46,552 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:46,734 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:47,150 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:47,735 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:48,394 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:48,926 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:49,344 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:49,616 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:49,870 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:49,966 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:50,261 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:50,489 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:50,614 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:50,913 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:51,145 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:51,495 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:51,767 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:52,145 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 13:18:52,382 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 13:18:52,968 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:53,186 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:53,665 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 13:18:57,430 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 13:18:57,857 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 13:18:57,900 - INFO - Model ready (torch.float32).
+2026-06-03 13:18:57,900 - INFO - Generating 30s — guidance=3.0 — prompt: 'dark sparse dancehall riddim, hard hitting sub 808, sparse kick snare, sparse percussion, kingston night, 100 bpm, kalado style., 142 BPM, dark atmosphere, minimalist, sparse texture'
+2026-06-03 13:36:48,046 - INFO - Saved: /var/home/mk/projects/mk/music-output/dark_sparse_dancehall_riddim__hard_hitti_30s.wav
+2026-06-03 13:38:20,630 - INFO - Rendered: /var/home/mk/projects/mk/music-output/stems/mxk_20260603_131827/drums_mxk_20260603_131827_foundation.wav
+2026-06-03 13:39:52,595 - INFO - Rendered: /var/home/mk/projects/mk/music-output/stems/mxk_20260603_131827/bass_mxk_20260603_131827_foundation.wav
+2026-06-03 13:41:24,472 - INFO - Rendered: /var/home/mk/projects/mk/music-output/stems/mxk_20260603_131827/chords_mxk_20260603_131827_foundation.wav
+2026-06-03 13:42:56,383 - INFO - Rendered: /var/home/mk/projects/mk/music-output/stems/mxk_20260603_131827/melody_mxk_20260603_131827_foundation.wav
+2026-06-03 13:43:17,395 - INFO - === Session mxk_20260603_131827 COMPLETE → /var/home/mk/projects/mk/music-output/final/mxk_20260603_131827_mastered.wav ===
+2026-06-03 15:04:52,246 - INFO - GPT-2 skipped — using rule-based analysis.
+2026-06-03 15:04:52,247 - INFO - Master-Ear initialisiert
+2026-06-03 15:04:52,247 - INFO - MusicGen initialisiert
+2026-06-03 15:04:52,247 - INFO - MIDI-Renderer initialisiert
+2026-06-03 15:04:52,248 - INFO - Registry initialisiert
+2026-06-03 15:04:52,248 - INFO - Signierung deaktiviert (--no-sign)
+2026-06-03 15:04:52,248 - INFO - === Session mxk_20260603_150452 START ===
+2026-06-03 15:04:52,249 - INFO - GPT-2 failed, using rule-based analysis.
+2026-06-03 15:04:52,258 - INFO - Lade Modell 'ai-guru/lakhclean_mmmtrack_4bars_d-2048'...
+2026-06-03 15:04:53,368 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:04:53,372 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 15:04:53,478 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 15:04:53,773 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:04:53,879 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:04:54,094 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:04:54,200 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:04:54,402 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 15:04:54,711 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 15:04:55,008 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:04:55,117 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 15:04:55,411 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/model.safetensors "HTTP/1.1 404 Not Found"
+2026-06-03 15:04:55,612 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048 "HTTP/1.1 200 OK"
+2026-06-03 15:04:55,922 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/main "HTTP/1.1 200 OK"
+2026-06-03 15:04:56,074 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/generation_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:04:56,119 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/discussions?p=0 "HTTP/1.1 200 OK"
+2026-06-03 15:04:56,364 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:04:56,411 - INFO - HTTP Request: GET https://huggingface.co/api/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/commits/refs%2Fpr%2F1 "HTTP/1.1 200 OK"
+2026-06-03 15:04:56,458 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/ai-guru/lakhclean_mmmtrack_4bars_d-2048/72c6a39ad2e9d3921775b2b03642b79298075226/config.json "HTTP/1.1 200 OK"
+2026-06-03 15:04:56,483 - INFO - Modell geladen.
+2026-06-03 15:04:56,490 - INFO - Generiere MIDI-Tokens (max 512 tokens)...
+2026-06-03 15:04:56,648 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors.index.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:04:56,954 - INFO - HTTP Request: HEAD https://huggingface.co/ai-guru/lakhclean_mmmtrack_4bars_d-2048/resolve/refs%2Fpr%2F1/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 15:05:05,569 - INFO - Generiert: 517 Tokens
+2026-06-03 15:05:05,580 - INFO - MIDI gespeichert: /tmp/maxxki_sessions/mxk_20260603_150452_melody.mid (4 Track(s))
+2026-06-03 15:05:05,669 - INFO - No GPU found — using CPU (slow but works).
+2026-06-03 15:05:05,670 - INFO - Loading model 'facebook/musicgen-small' on cpu...
+2026-06-03 15:05:06,244 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:06,453 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:06,579 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:06,802 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:07,015 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:07,194 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:07,399 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:07,605 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:07,835 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:08,054 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:08,320 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/audio_tokenizer_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:08,606 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:08,832 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:08,916 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:09,244 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:09,473 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:09,651 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/preprocessor_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:09,856 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:10,066 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:10,322 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:10,480 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:10,710 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-06-03 15:05:10,986 - INFO - HTTP Request: GET https://huggingface.co/api/models/facebook/musicgen-small/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-06-03 15:05:11,597 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:11,680 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:12,063 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/model.safetensors "HTTP/1.1 302 Found"
+2026-06-03 15:05:21,821 - INFO - HTTP Request: HEAD https://huggingface.co/facebook/musicgen-small/resolve/main/generation_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 15:05:22,085 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/facebook/musicgen-small/4c8334b02c6ec4e8664a91979669a501ec497792/generation_config.json "HTTP/1.1 200 OK"
+2026-06-03 15:05:22,114 - INFO - Model ready (torch.float32).
+2026-06-03 15:05:22,114 - INFO - Generating 30s — guidance=3.0 — prompt: 'lofi hip hop., 142 BPM, dark atmosphere, minimalist, sparse texture'
